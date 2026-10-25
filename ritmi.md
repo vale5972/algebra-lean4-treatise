@@ -28,3 +28,6 @@ component ($M$) perfectly compensate each other, nullifying any error residue.
 **The Zero Latency Rhythm Principle ($\Xi_{\text{total}}$):**  
 The architecture does not require the waiting time of traditional peer review, as the invariant ($TV = 0$) and the formal kernel in Lean 4 are already
  immediately compilable and verifiable by anyone worldwide, eliminating bureaucratic friction and certifying priority in real time.
+
+Permanet Record & DOI Moscatelli Valentino©
+10.5281/zenodo.23409143
